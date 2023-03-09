@@ -1,0 +1,119 @@
+body {
+  background-color: white;
+}
+
+.background {
+  position: absolute;
+  width: 414px;
+  height: 608px;
+  left: 0px;
+  top: -16px;
+
+  background: #e31212;
+  border-radius: 20px;
+}
+
+.photo {
+  position: absolute;
+  width: 116px;
+  height: 116px;
+  left: 130px;
+  top: 69px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  background: url(FGOVE7824.jpg);
+  border: 8px solid rgba(255, 255, 255, 0.35);
+  filter: drop-shadow(0px 2px 4px #a70303);
+  border-radius: 100px;
+}
+
+.nama {
+  position: absolute;
+  width: 175px;
+  height: 24px;
+  left: 111px;
+  top: 207px;
+
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0.1em;
+
+  text-align: center;
+  color: white;
+}
+
+.write {
+  position: absolute;
+  width: 11.89px;
+  height: 13px;
+  left: 185px;
+  top: 25px;
+
+  filter: drop-shadow(0px 4px 4px #a70303);
+}
+
+.kelas {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+
+  color: rgba(255, 255, 255, 0.5);
+
+  text-shadow: 0px 2px 6px #a70303;
+}
+
+.write2 {
+  position: absolute;
+  width: 11.89px;
+  height: 13px;
+  left: 185px;
+  top: 70px;
+
+  filter: drop-shadow(0px 4px 4px #a70303);
+}
+
+.tgg-lahir {
+  left: 85px;
+  top: 349px;
+
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.hobi {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  left: 85px;
+  top: 400px;
+}
+
+.bio {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+
+  left: 100px;
+  top: 432px;
+}
+
+.bio-isi {
+  left: 20px;
+  text-align: center;
+
+  left: 111px;
+  top: 207px;
+
+  width: 300px;
+  height: 115px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
